@@ -111,14 +111,14 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:007802_0000_102D882B0845DBE0"/>
-            <pb facs="tcp:007802_0001_102D882E4CBA2DC0"/>
+            <pb facs="unknown:007802_0000_102D882B0845DBE0"/>
+            <pb facs="unknown:007802_0001_102D882E4CBA2DC0"/>
             <p>Tilden's <hi>MISCELLANOUS</hi> POEMS, ON Divers Occasions; Chiefly to Animate &amp; Rouse THE SOLDIERS.</p>
             <p>
                <hi>Printed</hi> 1756.</p>
          </div>
          <div type="preface">
-            <pb n="iii" facs="tcp:007802_0002_102D88370DE16010"/>
+            <pb n="iii" facs="unknown:007802_0002_102D88370DE16010"/>
             <head>PREFACE or Introduction.</head>
             <opener>
                <salute>Ingenious, and Courteous Reader,</salute>
@@ -159,7 +159,7 @@
                   </gap> Soldiers are the very life, nerves, and <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> of their Country, and cannot be too much Honored, nor too well Paid; being a
-<pb n="iv" facs="tcp:007802_0003_102D8DD5E7B98288"/>
+<pb n="iv" facs="unknown:007802_0003_102D8DD5E7B98288"/>
 lover of Martial Discipline; I tho't at this critical Juncture it might be of some service to the Public, to attempt to animate, and stir up the martial Spirits of our Soldiery, which is the utmost I can do under my present Cir<g ref="char:EOLhyphen"/>cumstances. The small Effort I made last Spring was so well accepted by the Gentlemen of the Army that I am thereby emboldened to revise that, and some other Pieces, and put them into a small Pamphlet. I have nothing further to say, Gentlemen; but conclude with the two following Stanzies,</hi>
             </p>
             <lg>
@@ -220,7 +220,7 @@ lover of Martial Discipline; I tho't at this critical Juncture it might be of so
       </front>
       <body>
          <div type="poem">
-            <pb n="5" facs="tcp:007802_0004_102D8DF235F6F100"/>
+            <pb n="5" facs="unknown:007802_0004_102D8DF235F6F100"/>
             <head>The British Lyon roused.</head>
             <lg>
                <l>HAil, great Apollo, guide my feeble Pen,</l>
@@ -264,7 +264,7 @@ lover of Martial Discipline; I tho't at this critical Juncture it might be of so
             </lg>
             <lg n="8">
                <l>
-                  <pb n="6" facs="tcp:007802_0005_102D8DD841AAC9D0"/>
+                  <pb n="6" facs="unknown:007802_0005_102D8DD841AAC9D0"/>
                   <hi>Britains!</hi> strike home, strike home dècisive Blows</l>
                <l>Upon the <gap reason="illegible: indecipherable" extent="1 span">
                      <desc>〈…〉</desc>
@@ -336,7 +336,7 @@ lover of Martial Discipline; I tho't at this critical Juncture it might be of so
             </lg>
             <lg n="16">
                <l>
-                  <pb n="7" facs="tcp:007802_0006_102D8DF48CF1DF90"/>
+                  <pb n="7" facs="unknown:007802_0006_102D8DF48CF1DF90"/>
 And if they do, let <hi>British</hi> Cannons Roar;</l>
                <l>And let thy Thunders reach the Wester Shoar</l>
                <l>While I shall strive to Rouse, her Sons once more.</l>
@@ -372,7 +372,7 @@ And if they do, let <hi>British</hi> Cannons Roar;</l>
                <l>In vain you'l sigh, &amp; make your sad Com<g ref="char:EOLhyphen"/>plaints</l>
                <l>Unto these Idol-worshippers of Saints</l>
                <l>
-                  <pb n="8" facs="tcp:007802_0007_102D8DDA7AB70568"/>
+                  <pb n="8" facs="unknown:007802_0007_102D8DDA7AB70568"/>
 Better to Die if Heaven sees it Fit,</l>
                <l>In Fields of Blood, than ever to Submit:</l>
                <l>Go Heroes bold, you've a Commission given</l>
@@ -413,7 +413,7 @@ Better to Die if Heaven sees it Fit,</l>
                <l>In <hi>blood</hi> bold Heroes roul them to their Grave<g ref="char:punc">▪</g>
                </l>
                <l>
-                  <pb n="9" facs="tcp:007802_0008_102D8DF66FEA2CA0"/>
+                  <pb n="9" facs="unknown:007802_0008_102D8DF66FEA2CA0"/>
 Since they the <hi>blood</hi> of Innocents have Shed</l>
                <l>Let <hi>thundring bombs</hi> fall blazing on their head</l>
                <l>With dire Confusion hurl them to the Dead</l>
@@ -446,7 +446,7 @@ Since they the <hi>blood</hi> of Innocents have Shed</l>
                </l>
                <l>Have fill'd my troubl'd Breast with strange Alarms.</l>
                <l>
-                  <pb n="10" facs="tcp:007802_0009_102D8DDC62BEF560"/>
+                  <pb n="10" facs="unknown:007802_0009_102D8DDC62BEF560"/>
 Break off my Song my barbarous Muse be still</l>
                <l>And <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -497,7 +497,7 @@ Break off my Song my barbarous Muse be still</l>
                <l>Which forc'd him to Retreat<g ref="char:punc">▪</g>
                </l>
                <l>
-                  <pb n="11" facs="tcp:007802_0010_102D8DF8581B5748"/>
+                  <pb n="11" facs="unknown:007802_0010_102D8DF8581B5748"/>
 He <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> upon the thirteenth Day,</l>
@@ -534,7 +534,7 @@ He <gap reason="illegible: indecipherable" extent="1 word">
                <l>And to resign thy great Command,</l>
                <l>And Cancel thy Commission:</l>
                <l>
-                  <pb n="12" facs="tcp:007802_0011_102D8DDE4D2F3E80"/>
+                  <pb n="12" facs="unknown:007802_0011_102D8DDE4D2F3E80"/>
 Altho' thou didst not much incline,</l>
                <l>Thy Post and Honours to resign;</l>
                <l>Now iron Slumber doth Confine;</l>
@@ -570,7 +570,7 @@ Altho' thou didst not much incline,</l>
                <l>They Kill, and Scalp them instantly,</l>
                <l>Then fly into the Woods;</l>
                <l>
-                  <pb n="13" facs="tcp:007802_0012_102D8DFA54352050"/>
+                  <pb n="13" facs="unknown:007802_0012_102D8DFA54352050"/>
 And make a mock of all their Crys;</l>
                <l>And bring their Scalps <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -619,7 +619,7 @@ And make a mock of all their Crys;</l>
                <l>And drive these murdering Dogs away,</l>
                <l>Unto their last Confusion.</l>
                <l>
-                  <pb n="14" facs="tcp:007802_0013_102D8DE0E3F611E8"/>
+                  <pb n="14" facs="unknown:007802_0013_102D8DE0E3F611E8"/>
 One bold Effort O let us make,</l>
                <l>And at one blow behead the Snake;</l>
                <l>And then these Savage Powers will <gap reason="illegible: indecipherable" extent="1 word">
@@ -662,7 +662,7 @@ One bold Effort O let us make,</l>
                <l>It is too High, and much too Strong,</l>
                <l>The Learned won't allow:</l>
                <l>
-                  <pb n="15" facs="tcp:007802_0014_102D8DFC76F0C9F0"/>
+                  <pb n="15" facs="unknown:007802_0014_102D8DFC76F0C9F0"/>
 Much Honour should accrue to him,</l>
                <l>Who ne'er was at their Acad<gap reason="illegible: indecipherable" extent="1 letter">
                      <desc>•</desc>
@@ -701,7 +701,7 @@ Much Honour should accrue to him,</l>
             </lg>
             <lg n="3">
                <l>
-                  <pb n="16" facs="tcp:007802_0015_102D8DE27AC5AF50"/>
+                  <pb n="16" facs="unknown:007802_0015_102D8DE27AC5AF50"/>
 He is our Fortress and our Shield;</l>
                <l>He sav'd us in the Bloody Field,</l>
                <l>And made our Foes unto us Yield,</l>
@@ -738,7 +738,7 @@ He is our Fortress and our Shield;</l>
                <l>The watry Walls like Castles stood;</l>
                <l>'Till Israel reach'd the Land:</l>
                <l>
-                  <pb n="17" facs="tcp:007802_0016_102D8DFED619A760"/>
+                  <pb n="17" facs="unknown:007802_0016_102D8DFED619A760"/>
 But fell with most tremendous Force,</l>
                <l>On Pharoah's <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -782,7 +782,7 @@ But fell with most tremendous Force,</l>
             </lg>
             <lg n="10">
                <l>
-                  <pb n="18" facs="tcp:007802_0017_102D8DE4316464D8"/>
+                  <pb n="18" facs="unknown:007802_0017_102D8DE4316464D8"/>
 They Planted were, the choicest Vine;</l>
                <l>Religion was their grand Design:</l>
                <l>But from their Ways we do Decline,</l>
@@ -822,7 +822,7 @@ They Planted were, the choicest Vine;</l>
                <l>Make them his Image to retain,</l>
                <l>And all our Powers inspire;</l>
                <l>
-                  <pb n="19" facs="tcp:007802_0018_102D8E01121D15C0"/>
+                  <pb n="19" facs="unknown:007802_0018_102D8E01121D15C0"/>
 Then should the Sun no more than we,</l>
                <l>Nor Moon, nor Stars obedient be,</l>
                <l>Nor Run with such alacritie,</l>
@@ -862,7 +862,7 @@ Then should the Sun no more than we,</l>
             </lg>
             <lg n="17">
                <l>
-                  <pb n="20" facs="tcp:007802_0019_102D8DE727B5F078"/>
+                  <pb n="20" facs="unknown:007802_0019_102D8DE727B5F078"/>
 Forbear my Muse, hide in the Dust,</l>
                <l>But ne'er forget to put thy Trust,</l>
                <l>On the most Holy, High and Just,</l>
@@ -899,7 +899,7 @@ Forbear my Muse, hide in the Dust,</l>
             </lg>
             <lg n="3">
                <l>
-                  <pb n="21" facs="tcp:007802_0020_102D8E029FA62C40"/>
+                  <pb n="21" facs="unknown:007802_0020_102D8E029FA62C40"/>
 There is no Place nor Colony,</l>
                <l>Can challenge the Supremacy;</l>
                <l>In GEORGE we've an equality;</l>
@@ -939,7 +939,7 @@ There is no Place nor Colony,</l>
                <l>Distilling Poisons from their Pens;</l>
                <l>It is a burning shame,</l>
                <l>
-                  <pb n="22" facs="tcp:007802_0021_102D8DE8B2498130"/>
+                  <pb n="22" facs="unknown:007802_0021_102D8DE8B2498130"/>
 That in a corner they should Lie,</l>
                <l>And let their poisonous Arrows fly,</l>
                <l>At Men in Place and Dignity,</l>
@@ -979,7 +979,7 @@ That in a corner they should Lie,</l>
             </lg>
             <lg n="10">
                <l>
-                  <pb n="23" facs="tcp:007802_0022_102D8E053221C550"/>
+                  <pb n="23" facs="unknown:007802_0022_102D8E053221C550"/>
 It is beneath Great <hi>L—'s</hi> Sword,</l>
                <l>A meet Correction to afford,</l>
                <l>And to cashier him by the Board,</l>
@@ -1015,7 +1015,7 @@ It is beneath Great <hi>L—'s</hi> Sword,</l>
             </lg>
          </div>
          <div type="poem">
-            <pb n="24" facs="tcp:007802_0023_102D8DEA9AEDC0C8"/>
+            <pb n="24" facs="unknown:007802_0023_102D8DEA9AEDC0C8"/>
             <head>The vanity, &amp; uncertainty of all Sublunary Things.</head>
             <lg>
                <l>MY Muse mount on the <hi>Morning Wings</hi>
@@ -1050,7 +1050,7 @@ It is beneath Great <hi>L—'s</hi> Sword,</l>
             </lg>
             <lg n="4">
                <l>
-                  <pb n="25" facs="tcp:007802_0024_102D8E0771EC1338"/>
+                  <pb n="25" facs="unknown:007802_0024_102D8E0771EC1338"/>
 My Muse behold, and 'twill Surprize,</l>
                <l>Some Men on honour's Tower who rise,</l>
                <l>And see how it confounds their Brains,</l>
@@ -1085,7 +1085,7 @@ My Muse behold, and 'twill Surprize,</l>
                <l>Vain Man walks in an empty show;</l>
                <l>E'er Death he strikes the fatal Stroke,</l>
                <l>
-                  <pb n="26" facs="tcp:007802_0025_102D8DEC82B75FA0"/>
+                  <pb n="26" facs="unknown:007802_0025_102D8DEC82B75FA0"/>
 Then all his Spirits evaporate,</l>
                <l>His Flesh goes down for Worms to Eat,</l>
                <l>Thro' every cavern of his Heart;</l>
@@ -1124,7 +1124,7 @@ Then all his Spirits evaporate,</l>
             </lg>
             <lg n="11">
                <l>
-                  <pb n="27" facs="tcp:007802_0026_102D8E0900A27DA8"/>
+                  <pb n="27" facs="unknown:007802_0026_102D8E0900A27DA8"/>
 The Man who hath this Heav'nly Bliss;</l>
                <l>His Substance be it more or less;</l>
                <l>Yet Virtue teacheth him to know,</l>
@@ -1162,7 +1162,7 @@ The Man who hath this Heav'nly Bliss;</l>
                <l>And says<g ref="char:punc">▪</g> You'er welcome mighty Traveller</l>
                <l>Unto your Glories, &amp; your Mansions here,</l>
                <l>
-                  <pb n="28" facs="tcp:007802_0027_102D8DEE635ADF70"/>
+                  <pb n="28" facs="unknown:007802_0027_102D8DEE635ADF70"/>
 His Visiters who came from every Pole,</l>
                <l>O! how they view his great Capacious Soul</l>
                <l>And represent him in an Angel's Shape,</l>
@@ -1189,7 +1189,7 @@ His Visiters who came from every Pole,</l>
                <l>These awful Signs of his up-lifted Hand,</l>
                <l>It Speaks there is an awful Day at Hand,</l>
                <l>
-                  <pb n="29" facs="tcp:007802_0028_102D8E0A937BAFA8"/>
+                  <pb n="29" facs="unknown:007802_0028_102D8E0A937BAFA8"/>
 Sulpher and Nitre from deep Caverns burns.</l>
                <l>Convulse the Earth, the Mountains over<g ref="char:EOLhyphen"/>turns,</l>
                <l>The Earth it Trembles, the Hills are soar afraid,</l>
@@ -1211,7 +1211,7 @@ Sulpher and Nitre from deep Caverns burns.</l>
                <l>My Muse forbear to prophecy or say,</l>
                <l>That these are preludes of the Judgment<g ref="char:EOLhyphen"/>Day,</l>
                <l>
-                  <pb n="30" facs="tcp:007802_0029_102D8DF088599E78"/>
+                  <pb n="30" facs="unknown:007802_0029_102D8DF088599E78"/>
 When all those Seeds shall from the center Burn<g ref="char:punc">▪</g>
                </l>
                <l>All Nature to a mighty Chaos turn,</l>
